@@ -24,12 +24,6 @@ fields:
   - type: file
     name: src
     label: src
-- type: textarea
-  name: upd
-  label: upd
-- type: field_group
-  name: page
-  label: page
 - type: list
   name: tags
   label: tags
